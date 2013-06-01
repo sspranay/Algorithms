@@ -1,4 +1,4 @@
 Algorithms
 ==========
 
-java implementation of popular algorithms
+java implementation of popular computer science algorithms
