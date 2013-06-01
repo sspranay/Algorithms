@@ -1,4 +1,4 @@
 Algorithms
 ==========
 
-java implementation of popular computer science algorithms
+Implementation of popular computer science algorithms, some in Java, some in PHP
