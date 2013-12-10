@@ -1,5 +1,5 @@
 /*
- * A generic binary search tree implementation
+ * A generic, better designed (to an API) binary search tree implementation
  * with some of the common methods
  * 
  */
