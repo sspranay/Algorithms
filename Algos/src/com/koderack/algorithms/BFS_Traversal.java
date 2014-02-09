@@ -13,7 +13,7 @@ import java.util.Queue;
 
 /**
  *
- * @author ppramod
+ * @author pranay pramod
  */
 public class BFS_Traversal {
     
