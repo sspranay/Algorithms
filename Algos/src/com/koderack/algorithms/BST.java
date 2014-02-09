@@ -14,7 +14,7 @@ import java.util.Stack;
 
 /**
  *
- * @author pranay
+ * @author pranay pramod
  */
 public class BST {
 
