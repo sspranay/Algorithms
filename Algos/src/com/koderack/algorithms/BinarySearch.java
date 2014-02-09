@@ -7,7 +7,7 @@ package com.koderack.algorithms;
 
 /**
  *
- * @author pranay
+ * @author pranay pramod
  */
 public class BinarySearch {
     
