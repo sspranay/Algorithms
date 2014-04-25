@@ -17,7 +17,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author pranay
+ * @author pranay pramod
  */
 public class Student {
     private String name;
